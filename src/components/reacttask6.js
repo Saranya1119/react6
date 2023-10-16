@@ -1,5 +1,5 @@
 import "./style.css";
-import myimg from "/Users/ghorakavisaranya/Desktop/MERN/reacttasks/react6/src/components/Saranya.jpg";
+import myimg from "/Users/ghorakavisaranya/Desktop/MERN/reacttasks/react6/src/Saranya 10.57.27 AM.jpg";
 import {useRef} from "react";
 export function Home(){
     const home=useRef(null);
